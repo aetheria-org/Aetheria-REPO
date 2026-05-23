@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§d[VIP] Badge",
-  "nbttag": "{Unbreakable:1b,HideFlags:39,SkullOwner:{Id:\"9c8d3f13-481d-3f78-bc56-b80cdd439a19\",Properties:{textures:[{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUwOWU1ZTQ0NDI5MWU2ODM3MTU3MDAyZWU5ZDVmNjA0YzY5NzAzOWVlYzdhY2JhMjQ3OGZiMDk2ODRmOThmZjcifX19\"}]}},display:{Lore:[\"§8Uncommon Commodity\",\"\",\"§7Buy price: §6100,999,999.6 coins\",\"§7Sell price: §690,071,013.3 coins\",\"\",\"§eClick to view product!\"],Name:\"§d[VIP] Badge\"},ExtraAttributes:{obtained:1778657494559L,id:\"VIP_BADGE\",uuid:\"e9c3d9bb-295d-49c2-b80c-f25631138673\"}}",
+  "nbttag": "{Unbreakable:1b,HideFlags:39,SkullOwner:{Id:\"9c8d3f13-481d-3f78-bc56-b80cdd439a19\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUwOWU1ZTQ0NDI5MWU2ODM3MTU3MDAyZWU5ZDVmNjA0YzY5NzAzOWVlYzdhY2JhMjQ3OGZiMDk2ODRmOThmZjcifX19\"}]}},display:{Lore:[\"§8Uncommon Commodity\",\"\",\"§7Buy price: §6100,999,999.6 coins\",\"§7Sell price: §690,071,013.3 coins\",\"\",\"§eClick to view product!\"],Name:\"§d[VIP] Badge\"},ExtraAttributes:{obtained:1778657494559L,id:\"VIP_BADGE\",uuid:\"e9c3d9bb-295d-49c2-b80c-f25631138673\"}}",
   "damage": 3,
   "lore": [
     "§8Uncommon Commodity",

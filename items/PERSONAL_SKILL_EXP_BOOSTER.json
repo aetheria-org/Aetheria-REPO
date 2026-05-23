@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§dPersonal Skill EXP Booster",
-  "nbttag": "{Unbreakable:1b,HideFlags:39,SkullOwner:{Id:\"85672507-b3e3-3120-87b5-290bd34c8dca\",Properties:{textures:[{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhZjgxNTFkZWIzOTU1MzI5MmI5YTY5Njc0ODMyZGRhODAwMTc4MGNhOTgxODBhMDZlYWY5YjM2ODkzMGI1YmIifX19\"}]}},display:{Lore:[\"§8Mythic Commodity\",\"\",\"§7Buy price: §638,541,962.1 coins\",\"§7Sell price: §625,000,000.7 coins\",\"\",\"§eClick to view product!\"],Name:\"§dPersonal Skill EXP Booster\"},ExtraAttributes:{duration:3600000L,booster_type:\"SKILL_EXP\",obtained:1778659903260L,id:\"PERSONAL_SKILL_EXP_BOOSTER\",uuid:\"b98d8d3b-9a75-45c9-b7df-6d8dba143620\"}}",
+  "nbttag": "{Unbreakable:1b,HideFlags:39,SkullOwner:{Id:\"85672507-b3e3-3120-87b5-290bd34c8dca\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhZjgxNTFkZWIzOTU1MzI5MmI5YTY5Njc0ODMyZGRhODAwMTc4MGNhOTgxODBhMDZlYWY5YjM2ODkzMGI1YmIifX19\"}]}},display:{Lore:[\"§8Mythic Commodity\",\"\",\"§7Buy price: §638,541,962.1 coins\",\"§7Sell price: §625,000,000.7 coins\",\"\",\"§eClick to view product!\"],Name:\"§dPersonal Skill EXP Booster\"},ExtraAttributes:{duration:3600000L,booster_type:\"SKILL_EXP\",obtained:1778659903260L,id:\"PERSONAL_SKILL_EXP_BOOSTER\",uuid:\"b98d8d3b-9a75-45c9-b7df-6d8dba143620\"}}",
   "damage": 3,
   "lore": [
     "§8Mythic Commodity",

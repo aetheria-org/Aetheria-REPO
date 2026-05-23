@@ -1,7 +1,7 @@
 {
   "itemid": "minecraft:skull",
   "displayname": "§aLotus Fragment",
-  "nbttag": "{Unbreakable:1b,HideFlags:39,SkullOwner:{Id:\"600087fd-c564-3aed-a98c-4dfc55822b11\",Properties:{textures:[{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y4NmFiMDUyNDkwMDc2ZTM2YjMzNjY3MjFiNjNjZDAzYjcwNGYyM2VkN2UzMDBjNzE1ODRiZDM4NjkwYTA5NDYifX19\"}]}},display:{Lore:[\"§8Uncommon Commodity\",\"\",\"§7Buy price: §6539.2 coins\",\"§7Sell price: §6100 coins\",\"\",\"§eClick to view product!\"],Name:\"§aLotus Fragment\"},ExtraAttributes:{id:\"LOTUS_FRAGMENT\"}}",
+  "nbttag": "{Unbreakable:1b,HideFlags:39,SkullOwner:{Id:\"600087fd-c564-3aed-a98c-4dfc55822b11\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y4NmFiMDUyNDkwMDc2ZTM2YjMzNjY3MjFiNjNjZDAzYjcwNGYyM2VkN2UzMDBjNzE1ODRiZDM4NjkwYTA5NDYifX19\"}]}},display:{Lore:[\"§8Uncommon Commodity\",\"\",\"§7Buy price: §6539.2 coins\",\"§7Sell price: §6100 coins\",\"\",\"§eClick to view product!\"],Name:\"§aLotus Fragment\"},ExtraAttributes:{id:\"LOTUS_FRAGMENT\"}}",
   "damage": 3,
   "lore": [
     "§8Uncommon Commodity",
