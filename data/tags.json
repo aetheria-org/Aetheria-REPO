@@ -12,9 +12,15 @@
       "unicodeSymbol": "U+27E3",
       "unicodeColor": "#FF5555"
     },
+     {
+      "name": "i_am_A_monkey",
+      "text": "§bAutism",
+      "unicodeSymbol": "U+2605",
+      "unicodeColor": "#FFAA00"
+    },
     {
       "name": "mansoob201",
-      "text": "§c[Developer] \n §b@h4mlock",
+      "text": "§c[Author] \n §b@hamlook",
       "unicodeSymbol": "U+27E3",
       "unicodeColor": "#FF5555"
     },
