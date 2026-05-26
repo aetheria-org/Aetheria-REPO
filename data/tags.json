@@ -12,7 +12,7 @@
       "unicodeSymbol": "U+27E3",
       "unicodeColor": "#FF5555"
     },
-     {
+    {
       "name": "i_am_A_monkey",
       "text": "§bAutism",
       "unicodeSymbol": "U+2605",
@@ -20,9 +20,9 @@
     },
     {
       "name": "mansoob201",
-      "text": "§c[Author] \n §b@hamlook",
+      "text": "§d[Author] \n §b@hamlook",
       "unicodeSymbol": "U+27E3",
-      "unicodeColor": "#FF5555"
+      "unicodeColor": "#FF55FF"
     },
     {
       "name": "pickonimbus2000",
@@ -30,11 +30,17 @@
       "unicodeSymbol": "U+2726",
       "unicodeColor": "#00AAFF"
     },
-     {
+    {
       "name": "TURKISHKEBAP",
       "text": "§bBeta Tester \n §c kitten!",
       "unicodeSymbol": "U+2740",
       "unicodeColor": "#ffff00"
+    },
+    {
+      "name": "YesIndianLonda",
+      "text": "§9[Discord Maintainer] \n §b@Mxhooman",
+      "unicodeSymbol": "U+2694",
+      "unicodeColor": "#00008B"
     }
   ]
 }
