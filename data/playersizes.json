@@ -5,6 +5,5 @@
   { "name": "birb", "scale": 1 },
   { "name": "Real_King4Life", "scale": 1 },
   { "name": "hapzo", "scale": 0.1 },
-  { "name": "imsus", "scaleX": 0.6, "scaleY": 0.2, "scaleZ": 2.0 },
-  { "name": "Roybek", "scaleX": 1.0, "scaleY": 0.5, "scaleZ": 1.5 }
+  { "name": "imsus", "scaleX": 0.6, "scaleY": 0.2, "scaleZ": 2.0 }
 ]
