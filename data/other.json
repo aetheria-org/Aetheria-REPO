@@ -1,0 +1,4 @@
+{
+    "priceFetchInterval": 1800000,
+    "priceUploadInterval": 30000
+}
