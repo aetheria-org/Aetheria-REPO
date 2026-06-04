@@ -1,5 +1,5 @@
 [
-  { "name": "Marina_Mommy", "scale": 1 },
+  { "name": "Marina_Mommy", "scaleX": 1.5, "scaleY": 0.5, "scaleZ": 2 },
   { "name": "kanishka007", "scale": 1.0 },
   { "name": "HeadLessMate", "scale": 0.567 },
   { "name": "birb", "scale": 1 },
