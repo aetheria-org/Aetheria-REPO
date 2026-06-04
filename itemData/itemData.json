@@ -230538,7 +230538,7 @@
   },
   "SUPER_EGG": {
     "name": "§9Super Enchanted Egg",
-    "itemid": "minecraft:paper",
+    "itemid": "minecraft:ghast_spawn_egg",
     "damage": 0,
     "texture": null,
     "lore": [
