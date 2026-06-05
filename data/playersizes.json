@@ -5,6 +5,7 @@
   { "name": "s7_siradj", "scale": 0.25 },
   { "name": "hapzo", "scale": 0.1 },
   { "name": "birb", "scale": 1.5 },
+  { "name": "Roybek", "scale": 0.001 },
   { "name": "Anywvys", "scale": 2 },
   { "name": "imsus", "scaleX": 0.6, "scaleY": 0.2, "scaleZ": 2.0 },
   { "name": "SkibidiToiletRAH", "scaleX": 2, "scaleY": 0.5, "scaleZ": 2 }
