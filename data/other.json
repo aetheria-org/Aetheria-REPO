@@ -1,4 +1,4 @@
 {
     "priceFetchInterval": 1800000,
-    "priceUploadInterval": 30000
+    "priceUploadInterval": 300000
 }
