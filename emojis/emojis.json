@@ -4,7 +4,34 @@
     "width": 120,
     "height": 120,
     "animated": false,
-    "short_name": "cat-goodjob",
-    "short_names": ["cat-goodjob"]
+    "short_name": "cat_goodjob",
+    "short_names": ["cat_goodjob"]
+  },
+  {
+    "sprite_coords": [
+        {"x": 121,"y":0},
+        {"x": 121,"y":128},
+        {"x": 121,"y":256},
+        {"x": 121,"y":384},
+        {"x": 121,"y":512},
+        {"x": 121,"y":640},
+        {"x": 121,"y":768},
+        {"x": 121,"y":896},
+        {"x": 121,"y":1024},
+        {"x": 121,"y":1152},
+        {"x": 121,"y":1280},
+        {"x": 121,"y":1408},
+        {"x": 121,"y":1536},
+        {"x": 121,"y":1664},
+        {"x": 121,"y":1792},
+        {"x": 121,"y":1920},
+        {"x": 121,"y":2048}
+    ],
+    "width": 128,
+    "height": 128,
+    "animated": true,
+    "frametime": 30,
+    "short_name": "duck_dance",
+    "short_names": ["duck_dance"]
   }
 ]
