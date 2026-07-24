@@ -150,9 +150,9 @@
     "height": 450,
     "animated": true,
     "frametime": 50,
-    "short_name": "cinema",
+    "short_name": "absolute_cinema",
     "short_names": [
-      "cinema"
+      "absolute_cinema"
     ]
   },
   {
