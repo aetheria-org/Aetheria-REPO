@@ -294,9 +294,9 @@
     "height": 128,
     "animated": true,
     "frametime": 30,
-    "short_name": "duck-dance",
+    "short_name": "duck_dance",
     "short_names": [
-      "duck-dance"
+      "duck_dance"
     ]
   },
   {
