@@ -31,15 +31,15 @@
       "vampirism",
       "venomous",
       "vicious",
-      "ultimate_one_for_all",
-      "ultimate_soul_eater",
-      "ultimate_chimera",
-      "ultimate_combo",
-      "ultimate_swarm",
+      "one_for_all",
+      "soul_eater",
+      "chimera",
+      "combo",
+      "swarm",
       "ultimate_wise",
       "smoldering",
-      "ultimate_inferno",
-      "ultimate_fatal_tempo",
+      "inferno",
+      "fatal_tempo",
       "tabasco",
       "champion",
       "divine_gift"
@@ -57,18 +57,18 @@
       "power",
       "punch",
       "snipe",
-      "ultimate_soul_eater",
-      "ultimate_chimera",
-      "ultimate_swarm",
+      "soul_eater",
+      "chimera",
+      "swarm",
       "ultimate_wise",
-      "ultimate_rend",
-      "ultimate_reiterate",
+      "rend",
+      "reiterate",
       "smoldering",
-      "ultimate_inferno",
-      "ultimate_fatal_tempo",
+      "inferno",
+      "fatal_tempo",
       "divine_gift",
       "tabasco",
-      "ultimate_duplex",
+      "duplex",
       "vicious",
       "toxophilite"
     ],
@@ -83,8 +83,9 @@
       "sunder",
       "dedication",
       "absorb",
-      "ultimate_first_impression",
-      "ultimate_missile"
+      "crop_fever",
+      "first_impression",
+      "missile"
     ],
     "PICKAXE": [
       "compact",
@@ -95,7 +96,7 @@
       "pristine",
       "smelting_touch",
       "paleontologist",
-      "ultimate_flowstate",
+      "flowstate",
       "lapidary"
     ],
     "DRILL": [
@@ -107,7 +108,7 @@
       "silk_touch",
       "smelting_touch",
       "paleontologist",
-      "ultimate_flowstate",
+      "flowstate",
       "lapidary"
     ],
     "FISHING ROD": [
@@ -124,9 +125,9 @@
       "impaling",
       "charm",
       "corruption",
-      "ultimate_inferno",
-      "ultimate_fatal_tempo",
-      "ultimate_flash",
+      "inferno",
+      "fatal_tempo",
+      "flash",
       "tabasco",
       "piscary",
       "quick_bite"
@@ -172,16 +173,16 @@
       "vampirism",
       "venomous",
       "vicious",
-      "ultimate_one_for_all",
-      "ultimate_soul_eater",
-      "ultimate_chimera",
-      "ultimate_combo",
-      "ultimate_swarm",
+      "one_for_all",
+      "soul_eater",
+      "chimera",
+      "combo",
+      "swarm",
       "ultimate_wise",
       "smoldering",
-      "ultimate_inferno",
-      "ultimate_fatal_tempo",
-      "ultimate_flash",
+      "inferno",
+      "fatal_tempo",
+      "flash",
       "tabasco",
       "champion",
       "divine_gift",
@@ -205,6 +206,7 @@
       "turbo_moonflower",
       "turbo_sunflower",
       "cultivating",
+      "crop_fever",
       "delicate",
       "dedication"
     ],
@@ -220,21 +222,21 @@
       "aqua_affinity",
       "thorns",
       "respiration",
-      "ultimate_bank",
-      "ultimate_last_stand",
-      "ultimate_legion",
-      "ultimate_no_pain_no_gain",
-      "ultimate_wisdom",
+      "bank",
+      "last_stand",
+      "legion",
+      "no_pain_no_gain",
+      "wisdom",
       "hardened_mana",
       "strong_mana",
       "mana_vampire",
       "ferocious_mana",
       "hecatomb",
-      "ultimate_habanero_tactics",
-      "ultimate_bobbin_time",
+      "habanero_tactics",
+      "bobbin_time",
       "transylvanian",
       "pesterminator",
-      "ultimate_refrigerate",
+      "refrigerate",
       "ice_cold",
       "small_brain"
     ],
@@ -249,20 +251,20 @@
       "thorns",
       "counter_strike",
       "true_protection",
-      "ultimate_bank",
-      "ultimate_last_stand",
-      "ultimate_legion",
-      "ultimate_no_pain_no_gain",
-      "ultimate_wisdom",
+      "bank",
+      "last_stand",
+      "legion",
+      "no_pain_no_gain",
+      "wisdom",
       "hardened_mana",
       "strong_mana",
       "mana_vampire",
       "ferocious_mana",
-      "ultimate_habanero_tactics",
-      "ultimate_bobbin_time",
+      "habanero_tactics",
+      "bobbin_time",
       "reflection",
       "pesterminator",
-      "ultimate_refrigerate",
+      "refrigerate",
       "ice_cold"
     ],
     "LEGGINGS": [
@@ -275,19 +277,19 @@
       "respite",
       "smarty_pants",
       "thorns",
-      "ultimate_bank",
-      "ultimate_last_stand",
-      "ultimate_legion",
-      "ultimate_no_pain_no_gain",
-      "ultimate_wisdom",
+      "bank",
+      "last_stand",
+      "legion",
+      "no_pain_no_gain",
+      "wisdom",
       "hardened_mana",
       "strong_mana",
       "mana_vampire",
       "ferocious_mana",
-      "ultimate_habanero_tactics",
-      "ultimate_bobbin_time",
+      "habanero_tactics",
+      "bobbin_time",
       "pesterminator",
-      "ultimate_refrigerate",
+      "refrigerate",
       "ice_cold",
       "tidal"
     ],
@@ -304,19 +306,19 @@
       "depth_strider",
       "frost_walker",
       "thorns",
-      "ultimate_bank",
-      "ultimate_last_stand",
-      "ultimate_legion",
-      "ultimate_no_pain_no_gain",
-      "ultimate_wisdom",
+      "bank",
+      "last_stand",
+      "legion",
+      "no_pain_no_gain",
+      "wisdom",
       "hardened_mana",
       "strong_mana",
       "mana_vampire",
       "ferocious_mana",
-      "ultimate_habanero_tactics",
-      "ultimate_bobbin_time",
+      "habanero_tactics",
+      "bobbin_time",
       "pesterminator",
-      "ultimate_refrigerate",
+      "refrigerate",
       "ice_cold"
     ],
     "LONGSWORD": [
@@ -350,15 +352,15 @@
       "vampirism",
       "venomous",
       "vicious",
-      "ultimate_one_for_all",
-      "ultimate_soul_eater",
-      "ultimate_chimera",
-      "ultimate_combo",
-      "ultimate_swarm",
+      "one_for_all",
+      "soul_eater",
+      "chimera",
+      "combo",
+      "swarm",
       "ultimate_wise",
       "smoldering",
-      "ultimate_inferno",
-      "ultimate_fatal_tempo",
+      "inferno",
+      "fatal_tempo",
       "tabasco",
       "champion",
       "divine_gift"
@@ -394,11 +396,11 @@
       "vampirism",
       "venomous",
       "vicious",
-      "ultimate_one_for_all",
-      "ultimate_soul_eater",
-      "ultimate_chimera",
-      "ultimate_combo",
-      "ultimate_swarm",
+      "one_for_all",
+      "soul_eater",
+      "chimera",
+      "combo",
+      "swarm",
       "ultimate_wise",
       "compact",
       "efficiency",
@@ -407,13 +409,13 @@
       "pristine",
       "smelting_touch",
       "smoldering",
-      "ultimate_inferno",
-      "ultimate_fatal_tempo",
+      "inferno",
+      "fatal_tempo",
       "tabasco",
       "champion",
       "divine_gift",
       "paleontologist",
-      "ultimate_flowstate",
+      "flowstate",
       "lapidary"
     ],
     "GLOVES": [
@@ -430,7 +432,7 @@
       "prosperity",
       "green_thumb",
       "quantum",
-      "ultimate_the_one"
+      "the_one"
     ],
     "BRACELET": [
       "cayenne",
@@ -453,20 +455,20 @@
       "thorns",
       "counter_strike",
       "true_protection",
-      "ultimate_bank",
-      "ultimate_last_stand",
-      "ultimate_legion",
-      "ultimate_no_pain_no_gain",
-      "ultimate_wisdom",
+      "bank",
+      "last_stand",
+      "legion",
+      "no_pain_no_gain",
+      "wisdom",
       "hardened_mana",
       "strong_mana",
       "mana_vampire",
       "ferocious_mana",
-      "ultimate_habanero_tactics",
-      "ultimate_bobbin_time",
+      "habanero_tactics",
+      "bobbin_time",
       "reflection",
       "pesterminator",
-      "ultimate_refrigerate",
+      "refrigerate",
       "ice_cold"
     ]
   },
@@ -477,26 +479,26 @@
       "fortune"
     ],
     [
-      "ultimate_chimera",
-      "ultimate_combo",
-      "ultimate_swarm",
+      "chimera",
+      "combo",
+      "swarm",
       "ultimate_wise",
-      "ultimate_rend",
-      "ultimate_bank",
-      "ultimate_last_stand",
-      "ultimate_legion",
-      "ultimate_no_pain_no_gain",
-      "ultimate_wisdom",
-      "ultimate_one_for_all",
-      "ultimate_soul_eater",
-      "ultimate_reiterate",
-      "ultimate_inferno",
-      "ultimate_fatal_tempo",
-      "ultimate_flash",
-      "ultimate_habanero_tactics",
-      "ultimate_bobbin_time",
-      "ultimate_refrigerate",
-      "ultimate_flowstate"
+      "rend",
+      "bank",
+      "last_stand",
+      "legion",
+      "no_pain_no_gain",
+      "wisdom",
+      "one_for_all",
+      "soul_eater",
+      "reiterate",
+      "inferno",
+      "fatal_tempo",
+      "flash",
+      "habanero_tactics",
+      "bobbin_time",
+      "refrigerate",
+      "flowstate"
     ],
     [
       "protection",
@@ -534,123 +536,123 @@
       "titan_killer"
     ],
     [
-      "ultimate_one_for_all",
+      "one_for_all",
       "bane_of_arthropods"
     ],
     [
-      "ultimate_one_for_all",
+      "one_for_all",
       "cleave"
     ],
     [
-      "ultimate_one_for_all",
+      "one_for_all",
       "critical"
     ],
     [
-      "ultimate_one_for_all",
+      "one_for_all",
       "cubism"
     ],
     [
-      "ultimate_one_for_all",
+      "one_for_all",
       "dragon_hunter"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "ender_slayer"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "execute"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "experience"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "fire_aspect"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "first_strike"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "giant_killer"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "impaling"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "knockback"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "lethality"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "life_steal"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "looting"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "luck"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "mana_steal"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "PROSECUTE"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "scavenger"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "sharpness"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "smite"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "syphon"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "titan_killer"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "thunderlord"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "thunderbolt"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "triple_strike"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "vampirism"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "venomous"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "vicious"
     ],
     [
@@ -675,7 +677,7 @@
       "ferocious_mana"
     ],
     [
-      "ultimate_one_for_all",
+      "",
       "smoldering"
     ],
     [
@@ -2356,127 +2358,127 @@
   "ULTIMATE": {
     "bank": {
       "loreName": "Bank",
-      "nbtName": "ultimate_bank",
+      "nbtName": "bank",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "bobbin time": {
       "loreName": "Bobbin' Time",
-      "nbtName": "ultimate_bobbin_time",
+      "nbtName": "bobbin_time",
       "goodLevel": 3,
       "maxLevel": 5
     },
     "chimera": {
       "loreName": "Chimera",
-      "nbtName": "ultimate_chimera",
+      "nbtName": "chimera",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "combo": {
       "loreName": "Combo",
-      "nbtName": "ultimate_combo",
+      "nbtName": "combo",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "duplex": {
       "loreName": "Duplex",
-      "nbtName": "ultimate_reiterate",
+      "nbtName": "reiterate",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "fatal tempo": {
       "loreName": "Fatal Tempo",
-      "nbtName": "ultimate_fatal_tempo",
+      "nbtName": "fatal_tempo",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "first impression": {
       "loreName": "First Impression",
-      "nbtName": "ultimate_first_impression",
+      "nbtName": "first_impression",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "flash": {
       "loreName": "Flash",
-      "nbtName": "ultimate_flash",
+      "nbtName": "flash",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "flowstate": {
       "loreName": "Flowstate",
-      "nbtName": "ultimate_flowstate",
+      "nbtName": "flowstate",
       "goodLevel": 0,
       "maxLevel": 3
     },
     "habanero tactics": {
       "loreName": "Habanero Tactics",
-      "nbtName": "ultimate_habanero_tactics",
+      "nbtName": "habanero_tactics",
       "goodLevel": 4,
       "maxLevel": 5
     },
     "inferno": {
       "loreName": "Inferno",
-      "nbtName": "ultimate_inferno",
+      "nbtName": "inferno",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "last stand": {
       "loreName": "Last Stand",
-      "nbtName": "ultimate_last_stand",
+      "nbtName": "last_stand",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "legion": {
       "loreName": "Legion",
-      "nbtName": "ultimate_legion",
+      "nbtName": "legion",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "missile": {
       "loreName": "Missile",
-      "nbtName": "ultimate_missile",
+      "nbtName": "missile",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "no pain no gain": {
       "loreName": "No Pain No Gain",
-      "nbtName": "ultimate_no_pain_no_gain",
+      "nbtName": "no_pain_no_gain",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "one for all": {
       "loreName": "One For All",
-      "nbtName": "ultimate_one_for_all",
+      "nbtName": "",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "refrigerate": {
       "loreName": "Refrigerate",
-      "nbtName": "ultimate_refrigerate",
+      "nbtName": "refrigerate",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "rend": {
       "loreName": "Rend",
-      "nbtName": "ultimate_rend",
+      "nbtName": "rend",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "soul eater": {
       "loreName": "Soul Eater",
-      "nbtName": "ultimate_soul_eater",
+      "nbtName": "soul_eater",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "swarm": {
       "loreName": "Swarm",
-      "nbtName": "ultimate_swarm",
+      "nbtName": "swarm",
       "goodLevel": 0,
       "maxLevel": 5
     },
     "the one": {
       "loreName": "The One",
-      "nbtName": "ultimate_the_one",
+      "nbtName": "the_one",
       "goodLevel": 0,
       "maxLevel": 5
     },
@@ -2494,7 +2496,7 @@
     },
     "wisdom": {
       "loreName": "Wisdom",
-      "nbtName": "ultimate_wisdom",
+      "nbtName": "wisdom",
       "goodLevel": 0,
       "maxLevel": 5
     }
