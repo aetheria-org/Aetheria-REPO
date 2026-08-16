@@ -2488,6 +2488,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "crop fever": {
+      "loreName": "Crop Fever",
+      "nbtName": "crop_fever",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "ultimate wise": {
       "loreName": "Ultimate Wise",
       "nbtName": "ultimate_wise",
