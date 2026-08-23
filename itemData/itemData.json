@@ -64044,7 +64044,7 @@
     "clickcommand": "viewrecipe"
   },
   "ENCHANTED_MELON_BLOCK": {
-    "name": "§9Enchanted Melon",
+    "name": "§9Enchanted Melon Block",
     "itemid": "minecraft:melon_block",
     "damage": 0,
     "texture": null,
