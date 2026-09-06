@@ -83,6 +83,10 @@
     {
       "itemId": "STAFF_OF_THE_VOLCANO",
       "durationMs": 30000
+    },
+    {
+      "itemId": "ROGUE_SWORD",
+      "durationMs": 5000
     }
   ],
   "abilities": [
@@ -93,6 +97,10 @@
     {
       "itemId": "ATOMSPLIT_KATANA",
       "durationMs": 4000
+    },
+    {
+      "itemId": "ROGUE_SWORD",
+      "durationMs": 30000
     }
   ],
   "invincibility": [
@@ -179,6 +187,10 @@
     {
       "pattern": "Explode",
       "itemIds": ["STAFF_OF_THE_VOLCANO"]
+    },
+    {
+      "pattern": "Speed Boost",
+      "itemIds": ["ROGUE_SWORD"]
     }
   ]
 }
