@@ -50,7 +50,7 @@
     },
     {
       "name": "rykhvrnce",
-      "text": "§dMediocre miner \n §bBad username",
+      "text": "§d#1 Miner \n §bBad username",
       "unicodeSymbol": "U+2699",
       "unicodeColor": "#FF55FF"
     },
@@ -59,6 +59,13 @@
       "text": "§6§lBlaze Conqueror",
       "unicodeSymbol": "U+2742",
       "unicodeColor": "#8B0000"
+    },
+      {
+      "name": "shadowhunterxd",
+      "text": "§cLucky Person",
+      "unicodeSymbol": "U+2694",
+      "unicodeColor": "#FF5555"
+    }
     }
   ]
-    }
+}
