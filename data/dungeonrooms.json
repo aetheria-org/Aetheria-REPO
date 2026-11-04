@@ -156,7 +156,7 @@
       "category": "Puzzle",
       "dsg": "/channels/727426780381577291/732386638214332517/733858846048518215",
       "sbp": "tictactoe",
-      "secrets": 1,
+      "secrets": 2,
       "floorhash": "e9ada27912057a5998106531b990cb97",
       "alias": "TiTaTo"
     }
@@ -566,7 +566,7 @@
       "category": "1x1",
       "dsg": "/channels/727426780381577291/733854519934451732/733854644564131902",
       "sbp": "big-red-flag",
-      "secrets": 2,
+      "secrets": 1,
       "alias": "BigRFlg"
     }
   ],
