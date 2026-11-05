@@ -61,7 +61,7 @@
       "name": "Water Puzzle",
       "category": "Puzzle",
       "dsg": "null",
-      "secrets": 0,
+      "secrets": 1,
       "alias": "WaterPz"
     }
   ],
@@ -100,7 +100,7 @@
       "name": "Ice-Silverfish-Room",
       "category": "Puzzle",
       "dsg": "/channels/727426780381577291/732392830437294162/734613698194440232",
-      "secrets": 0,
+      "secrets": 1,
       "floorhash": "94fb12c91c4b46bd0c254edadaa49a3d",
       "alias": "IceSilv"
     }
@@ -110,7 +110,7 @@
       "name": "Creeper-Room",
       "category": "Puzzle",
       "dsg": "/channels/727426780381577291/732393043679903864/734613061125799967",
-      "secrets": 0,
+      "secrets": 1,
       "alias": "Creeper"
     }
   ],
@@ -147,7 +147,7 @@
       "name": "Teleport-Pad-Room",
       "category": "Puzzle",
       "dsg": "/channels/727426780381577291/732393155017834616/732393341374824488",
-      "secrets": 0,
+      "secrets": 1,
       "floorhash": "2cb477d23f2c428f44c05ca2a533d84b",
       "alias": "TelPad"
     },
@@ -261,7 +261,7 @@
       "name": "Boulder",
       "category": "Puzzle",
       "dsg": "null",
-      "secrets": 0,
+      "secrets": 1,
       "alias": "Boulder"
     }
   ],
