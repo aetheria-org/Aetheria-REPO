@@ -1,0 +1,906 @@
+{
+  "calendar": {
+    "epochMs": 1656536100000,
+    "yearSeconds": 446400,
+    "monthSeconds": 37200,
+    "daySeconds": 1200,
+    "hourSeconds": 50,
+    "eventStartMonth": 0,
+    "eventStartDay": 1,
+    "eventDurationMs": 111600000
+  },
+  "meals": {
+    "BREAKFAST": {
+      "hour": 7,
+      "displayName": "Chocolate Breakfast Egg",
+      "color": "§6",
+      "texture": "a49333d85b8a315d0336eb2df37d8a714ca24c51b8c6074f1b5b927deb516c24"
+    },
+    "LUNCH": {
+      "hour": 21,
+      "displayName": "Chocolate Lunch Egg",
+      "color": "§9",
+      "texture": "7ae6d2d31d8167bcaf95293b68a4acd872d66e751db5a34f2cbc6766a0356d0a"
+    },
+    "DINNER": {
+      "hour": 14,
+      "displayName": "Chocolate Dinner Egg",
+      "color": "§a",
+      "texture": "b2cd5df9d7f1fa8341fcce2f3c118e2f517e4d2d99df2c51d61d93ed7f83e13"
+    }
+  },
+  "islands": {
+    "HUB": [
+      {
+        "x": 160,
+        "y": 97,
+        "z": -71,
+        "label": "atop the Colosseum"
+      },
+      {
+        "x": 168,
+        "y": 69,
+        "z": 38,
+        "label": "at the Fisherman's Hut"
+      },
+      {
+        "x": 147,
+        "y": 113,
+        "z": 117,
+        "label": "within the emerald treehouse"
+      },
+      {
+        "x": 161,
+        "y": 71,
+        "z": 157,
+        "label": "within the wither cage"
+      },
+      {
+        "x": 125,
+        "y": 74,
+        "z": 168,
+        "label": "near the Dark Auction"
+      },
+      {
+        "x": 35,
+        "y": 72,
+        "z": 79,
+        "label": "at the base of the Wizard Tower"
+      },
+      {
+        "x": -1,
+        "y": 144,
+        "z": 51,
+        "label": "on the Mountain path"
+      },
+      {
+        "x": -38,
+        "y": 193,
+        "z": 35,
+        "label": "on the second highest Mountain peak"
+      },
+      {
+        "x": -7,
+        "y": 70,
+        "z": 188,
+        "label": "in Unincorporated Territory"
+      },
+      {
+        "x": -186,
+        "y": 87,
+        "z": 81,
+        "label": "within the Ruins"
+      },
+      {
+        "x": -152,
+        "y": 74,
+        "z": -41,
+        "label": "near the lumber piles"
+      },
+      {
+        "x": -61,
+        "y": 80,
+        "z": -38,
+        "label": "on the crane"
+      },
+      {
+        "x": -127,
+        "y": 73,
+        "z": -126,
+        "label": "on the emerald altar"
+      },
+      {
+        "x": 18,
+        "y": 70,
+        "z": -77,
+        "label": "next to the Farmhouse"
+      },
+      {
+        "x": -40,
+        "y": 70,
+        "z": -74,
+        "label": "in the Bazaar Alley"
+      },
+      {
+        "x": -38,
+        "y": 70,
+        "z": -135,
+        "label": "behind the Blacksmith building"
+      },
+      {
+        "x": 44,
+        "y": 71,
+        "z": -137,
+        "label": "near the Wheat Minion"
+      }
+    ],
+    "NETHER": [
+      {
+        "x": -32,
+        "y": 114,
+        "z": -936,
+        "label": "in front row seats of the Cathedral"
+      },
+      {
+        "x": -236,
+        "y": 108,
+        "z": -604,
+        "label": "behind Master Tao"
+      },
+      {
+        "x": -375,
+        "y": 207,
+        "z": -804,
+        "label": "in Odger's Hut"
+      },
+      {
+        "x": -694,
+        "y": 98,
+        "z": -794,
+        "label": "within the Dragontail colosseum"
+      },
+      {
+        "x": -631,
+        "y": 141,
+        "z": -926,
+        "label": "on the snout of The Bastion skeleton"
+      },
+      {
+        "x": -641,
+        "y": 101,
+        "z": -822,
+        "label": "in the Dragontail Minion Shop"
+      },
+      {
+        "x": -470,
+        "y": 136,
+        "z": -1020,
+        "label": "in the Ruins of Ashfang"
+      },
+      {
+        "x": -61,
+        "y": 107,
+        "z": -810,
+        "label": "in front of the Statue of the Hero"
+      },
+      {
+        "x": -358,
+        "y": 80,
+        "z": -442,
+        "label": "on the entrance bridge"
+      },
+      {
+        "x": -270,
+        "y": 83,
+        "z": -495,
+        "label": "in the corner of Bladesoul's room"
+      },
+      {
+        "x": -295,
+        "y": 93,
+        "z": -688,
+        "label": "on the path through the Mage Outpost"
+      }
+    ],
+    "SPIDERS_DEN": [
+      {
+        "x": -303,
+        "y": 65,
+        "z": -182,
+        "label": "higher up in Arachne's Sanctuary"
+      },
+      {
+        "x": -266,
+        "y": 72,
+        "z": -191,
+        "label": "behind an egg in Arachne's Sanctuary"
+      },
+      {
+        "x": -355,
+        "y": 111,
+        "z": -293,
+        "label": "within the Archaeologist's Camp"
+      },
+      {
+        "x": -155,
+        "y": 86,
+        "z": -351,
+        "label": "behind the Spider's Den"
+      },
+      {
+        "x": -361,
+        "y": 87,
+        "z": -352,
+        "label": "behind the Crimson Isle launch pad"
+      },
+      {
+        "x": -353,
+        "y": 124,
+        "z": -250,
+        "label": "on top of the dragon skeleton's horn"
+      },
+      {
+        "x": -293,
+        "y": 36,
+        "z": -271,
+        "label": "near a Fairy Soul and Relic"
+      },
+      {
+        "x": -181,
+        "y": 61,
+        "z": -312,
+        "label": "within a Gravel Mines fossil"
+      },
+      {
+        "x": -217,
+        "y": 75,
+        "z": -345,
+        "label": "atop a mushroom in the Gravel Mines"
+      },
+      {
+        "x": -202,
+        "y": 83,
+        "z": -238,
+        "label": "beside Haymitch"
+      },
+      {
+        "x": -299,
+        "y": 97,
+        "z": -167,
+        "label": "on top of the pond boulder"
+      },
+      {
+        "x": -280,
+        "y": 115,
+        "z": -181,
+        "label": "near slain spiders"
+      },
+      {
+        "x": -398,
+        "y": 139,
+        "z": -250,
+        "label": "near the stray Fairy Soul"
+      },
+      {
+        "x": -283,
+        "y": 129,
+        "z": -185,
+        "label": "on top of the house"
+      },
+      {
+        "x": -200,
+        "y": 174,
+        "z": -313,
+        "label": "at the top of the Spider's Den"
+      }
+    ],
+    "DUNGEON_HUB": [
+      {
+        "x": 0,
+        "y": 146,
+        "z": -77,
+        "label": "atop a tall statue"
+      },
+      {
+        "x": -22,
+        "y": 86,
+        "z": -2,
+        "label": "by the race start"
+      },
+      {
+        "x": -17,
+        "y": 87,
+        "z": -26,
+        "label": "behind leaderboards"
+      },
+      {
+        "x": -33,
+        "y": 119,
+        "z": 9,
+        "label": "near the Hub Selector"
+      },
+      {
+        "x": -51,
+        "y": 120,
+        "z": -11,
+        "label": "behind Ophelia's desk"
+      },
+      {
+        "x": -523,
+        "y": 120,
+        "z": 8,
+        "label": "near Malik"
+      },
+      {
+        "x": -56,
+        "y": 121,
+        "z": -5,
+        "label": "near Saul"
+      },
+      {
+        "x": -49,
+        "y": 121,
+        "z": -30,
+        "label": "near something that will never arrive"
+      },
+      {
+        "x": 5,
+        "y": 11,
+        "z": -1,
+        "label": "at the Crystal Core"
+      },
+      {
+        "x": -2,
+        "y": 23,
+        "z": 97,
+        "label": "atop the Giant Mushroom"
+      },
+      {
+        "x": 0,
+        "y": 108,
+        "z": 0,
+        "label": "under the entrance bridge"
+      },
+      {
+        "x": -51,
+        "y": 156,
+        "z": 0,
+        "label": "atop the Catacombs gate"
+      }
+    ],
+    "DWARVEN_MINES": [
+      {
+        "x": 13,
+        "y": 201,
+        "z": -150,
+        "label": "behind Banker Broadjaw"
+      },
+      {
+        "x": 36,
+        "y": 128,
+        "z": 50,
+        "label": "overlooking The Mist"
+      },
+      {
+        "x": 32,
+        "y": 179,
+        "z": 103,
+        "label": "atop the right massive dwarf statue"
+      },
+      {
+        "x": -17,
+        "y": 128,
+        "z": 177,
+        "label": "under Divan's Gateway"
+      },
+      {
+        "x": -1,
+        "y": 183,
+        "z": 26,
+        "label": "underneath a massive crystal"
+      },
+      {
+        "x": 87,
+        "y": 193,
+        "z": -44,
+        "label": "underneath the gold gate"
+      },
+      {
+        "x": 91,
+        "y": 199,
+        "z": -123,
+        "label": "near Geo"
+      },
+      {
+        "x": -73,
+        "y": 222,
+        "z": -139,
+        "label": "in the Miner's Guild"
+      },
+      {
+        "x": 126,
+        "y": 197,
+        "z": 187,
+        "label": "on the Royal Palace table"
+      },
+      {
+        "x": -134,
+        "y": 174,
+        "z": -51,
+        "label": "behind Emissary Fraiser"
+      },
+      {
+        "x": -146,
+        "y": 144,
+        "z": 148,
+        "label": "in the Goblin Burrows gold room"
+      },
+      {
+        "x": 78,
+        "y": 188,
+        "z": 126,
+        "label": "looking off the Hanging Court"
+      },
+      {
+        "x": -93,
+        "y": 200,
+        "z": -122,
+        "label": "behind the Lift"
+      },
+      {
+        "x": -2,
+        "y": 147,
+        "z": -52,
+        "label": "near lava in The Forge"
+      }
+    ],
+    "MINES": [
+      {
+        "x": -15,
+        "y": 104,
+        "z": -313,
+        "label": "on top of the entrance"
+      },
+      {
+        "x": -19,
+        "y": 25,
+        "z": -305,
+        "label": "next to the Lazy Miner's pickaxe"
+      },
+      {
+        "x": -19,
+        "y": 143,
+        "z": -361,
+        "label": "on the top of the mountain"
+      },
+      {
+        "x": -25,
+        "y": 78,
+        "z": -328,
+        "label": "near Rusty"
+      },
+      {
+        "x": -30,
+        "y": 74,
+        "z": -293,
+        "label": "behind the Gold Forger"
+      },
+      {
+        "x": -44,
+        "y": 77,
+        "z": -303,
+        "label": "in the Blacksmith's forge"
+      },
+      {
+        "x": 15,
+        "y": 75,
+        "z": -290,
+        "label": "beside a pile of coal"
+      },
+      {
+        "x": 17,
+        "y": 57,
+        "z": -340,
+        "label": "on top of platforms near a Fairy Soul"
+      },
+      {
+        "x": -18,
+        "y": 62,
+        "z": -353,
+        "label": "at the bottom of the stairs"
+      },
+      {
+        "x": -11,
+        "y": 68,
+        "z": -397,
+        "label": "behind the Deep Caverns launch pad"
+      },
+      {
+        "x": -22,
+        "y": 37,
+        "z": -336,
+        "label": "next to a hot fire underground"
+      },
+      {
+        "x": -25,
+        "y": 79,
+        "z": -282,
+        "label": "on top of a giant crate"
+      },
+      {
+        "x": 41,
+        "y": 80,
+        "z": -311,
+        "label": "looking towards the windmill"
+      },
+      {
+        "x": -49,
+        "y": 94,
+        "z": -335,
+        "label": "near a fork in the lava"
+      },
+      {
+        "x": -2,
+        "y": 82,
+        "z": -309,
+        "label": "above the Iron Forger"
+      }
+    ],
+    "THE_END": [
+      {
+        "x": -451,
+        "y": 50,
+        "z": -274,
+        "label": "atop a obsidian spike near the entrance"
+      },
+      {
+        "x": -539,
+        "y": 102,
+        "z": -271,
+        "label": "overlooking the drop down"
+      },
+      {
+        "x": -566,
+        "y": 7,
+        "z": -316,
+        "label": "by the warp to Void Sepulture"
+      },
+      {
+        "x": -584,
+        "y": 211,
+        "z": -272,
+        "label": "at the highest point"
+      },
+      {
+        "x": -591,
+        "y": 5,
+        "z": -276,
+        "label": "behind the Draconic Altar"
+      },
+      {
+        "x": -600,
+        "y": 21,
+        "z": -255,
+        "label": "at the start of the parkour"
+      },
+      {
+        "x": -667,
+        "y": 33,
+        "z": -210,
+        "label": "atop The Peak"
+      },
+      {
+        "x": -672,
+        "y": 77,
+        "z": -276,
+        "label": "on top of the Dragon Egg"
+      },
+      {
+        "x": -714,
+        "y": 41,
+        "z": -315,
+        "label": "at the Dragon's View"
+      },
+      {
+        "x": -722,
+        "y": 56,
+        "z": -232,
+        "label": "on the End Spire"
+      },
+      {
+        "x": -776,
+        "y": 101,
+        "z": -298,
+        "label": "behind the race checkpoint"
+      },
+      {
+        "x": -510,
+        "y": 110,
+        "z": -250,
+        "label": "on the stairs up to the race"
+      },
+      {
+        "x": -661,
+        "y": 5,
+        "z": -248,
+        "label": "near Zealots and Watchers"
+      },
+      {
+        "x": -502,
+        "y": 103,
+        "z": -299,
+        "label": "in the Pearl Dealer's shop"
+      }
+    ],
+    "THE_PARK": [
+      {
+        "x": -440,
+        "y": 110,
+        "z": -40,
+        "label": "where the jungle meets the savannah"
+      },
+      {
+        "x": -461,
+        "y": 110,
+        "z": -9,
+        "label": "behind Master Tactician Funk's bunks"
+      },
+      {
+        "x": -406,
+        "y": 121,
+        "z": -90,
+        "label": "near mossy cobblestone"
+      },
+      {
+        "x": -455,
+        "y": 94,
+        "z": -1,
+        "label": "within the clay tunnel"
+      },
+      {
+        "x": -329,
+        "y": 103,
+        "z": -113,
+        "label": "within the cultist's tent"
+      },
+      {
+        "x": -362,
+        "y": 91,
+        "z": 76,
+        "label": "in the back of Lonely Island"
+      },
+      {
+        "x": -400,
+        "y": 110,
+        "z": 35,
+        "label": "behind Melody"
+      },
+      {
+        "x": -309,
+        "y": 82,
+        "z": 18,
+        "label": "behind the flower pot"
+      },
+      {
+        "x": -276,
+        "y": 87,
+        "z": -17,
+        "label": "on the birch launch pad"
+      },
+      {
+        "x": -287,
+        "y": 82,
+        "z": -42,
+        "label": "next to the pond bridge"
+      },
+      {
+        "x": -407,
+        "y": 129,
+        "z": -123,
+        "label": "at the race checkpoint"
+      },
+      {
+        "x": -441,
+        "y": 124,
+        "z": -109,
+        "label": "between islands tethered by leaves"
+      },
+      {
+        "x": -312,
+        "y": 83,
+        "z": -72,
+        "label": "within the Rainmaker shrine"
+      },
+      {
+        "x": -380,
+        "y": 61,
+        "z": 35,
+        "label": "in front of Old Shaman Nyko"
+      },
+      {
+        "x": -454,
+        "y": 138,
+        "z": -121,
+        "label": "on top of a stone sculpture"
+      }
+    ],
+    "FARMING_ISLANDS": [
+      {
+        "x": 152,
+        "y": 72,
+        "z": -217,
+        "label": "in the pasture"
+      },
+      {
+        "x": 146,
+        "y": 81,
+        "z": -242,
+        "label": "on the second floor of The Barn"
+      },
+      {
+        "x": 256,
+        "y": 184,
+        "z": -564,
+        "label": "overlooking the oasis from above"
+      },
+      {
+        "x": 284,
+        "y": 102,
+        "z": -573,
+        "label": "outside the Trapper's Den"
+      },
+      {
+        "x": 175,
+        "y": 77,
+        "z": -373,
+        "label": "beside the well"
+      },
+      {
+        "x": 143,
+        "y": 77,
+        "z": -404,
+        "label": "beside an animal skull"
+      },
+      {
+        "x": 142,
+        "y": 71,
+        "z": -453,
+        "label": "beneath an oasis bridge"
+      },
+      {
+        "x": 95,
+        "y": 83,
+        "z": -284,
+        "label": "within the windmill"
+      },
+      {
+        "x": 168,
+        "y": 92,
+        "z": -319,
+        "label": "behind the tallest hill"
+      },
+      {
+        "x": 142,
+        "y": 90,
+        "z": -300,
+        "label": "among the path through carrots"
+      },
+      {
+        "x": 136,
+        "y": 74,
+        "z": -215,
+        "label": "on top of a scarecrow"
+      },
+      {
+        "x": 174,
+        "y": 78,
+        "z": -357,
+        "label": "in Mason's house"
+      },
+      {
+        "x": 163,
+        "y": 92,
+        "z": -599,
+        "label": "on Farmer Jon's table"
+      },
+      {
+        "x": 116,
+        "y": 87,
+        "z": -222,
+        "label": "at the end of the aqueduct"
+      }
+    ],
+    "CRYSTAL_HOLLOWS": [
+      {
+        "x": 472,
+        "y": 106,
+        "z": 518,
+        "label": "near the Diamond Essence Shop"
+      },
+      {
+        "x": 485,
+        "y": 65,
+        "z": 479,
+        "label": "at an entrance to the Magma Fields near Amethyst"
+      },
+      {
+        "x": 510,
+        "y": 93,
+        "z": 470,
+        "label": "on a ledge next to the stairwell"
+      },
+      {
+        "x": 494,
+        "y": 106,
+        "z": 556,
+        "label": "behind Emissary Sisko"
+      },
+      {
+        "x": 553,
+        "y": 106,
+        "z": 513,
+        "label": "in between Jade and Sapphire crystals"
+      },
+      {
+        "x": 508,
+        "y": 115,
+        "z": 564,
+        "label": "on top of the Crystal Nucleus"
+      },
+      {
+        "x": 463,
+        "y": 127,
+        "z": 505,
+        "label": "on the arms of the Amethyst statue"
+      },
+      {
+        "x": 532,
+        "y": 69,
+        "z": 528,
+        "label": "at the base of the Sapphire pillar"
+      },
+      {
+        "x": 530,
+        "y": 71,
+        "z": 465,
+        "label": "next to a lava waterfall"
+      },
+      {
+        "x": 509,
+        "y": 71,
+        "z": 480,
+        "label": "underneath the stairwell"
+      },
+      {
+        "x": 533,
+        "y": 108,
+        "z": 556,
+        "label": "near Geonathan Greatforge"
+      },
+      {
+        "x": 477,
+        "y": 82,
+        "z": 532,
+        "label": "on a lower platform!"
+      },
+      {
+        "x": 557,
+        "y": 117,
+        "z": 463,
+        "label": "near the Mithril Deposits entrance"
+      },
+      {
+        "x": 553,
+        "y": 100,
+        "z": 489,
+        "label": "on top of some Gold Ore"
+      },
+      {
+        "x": 513,
+        "y": 72,
+        "z": 513,
+        "label": "in the middle of the Crystal Nucleus!"
+      }
+    ]
+  }
+}
